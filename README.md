@@ -1,6 +1,6 @@
 ### Hi there <img alt="hi" src="./assets/hi.gif" width="30px" height="30px" /> I'm Bryan - a passionate developer
 
-<img src="https://raw.githubusercontent.com/ImSingee/ImSingee/master/assets/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ImSingee/ImSingee/master/assets/github-snake.svg" />
 
 - 🔭 I’m currently working on [1Space](http://1space.tech/)
 - ❤️ I love **Go, Rust, TypeScript**
